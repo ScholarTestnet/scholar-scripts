@@ -2,7 +2,7 @@
 
 A collection of scripts EOS.IO Software Testnets.
 
-## Shell
+## Bash Shell Scripts
 
 - [cleos.sh](scripts/cleos.sh)
 - [createAccountSendTransaction.sh](scripts/createAccountSendTransaction.sh)
