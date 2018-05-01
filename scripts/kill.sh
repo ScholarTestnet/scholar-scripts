@@ -1,4 +1,6 @@
 #!/bin/bash
 
-kill `cat eos.pid`
-rm eos.pid
+kill `cat nodeos.pid`
+kill `cat ipfs.pid`
+rm nodeos.pid
+rm ipfs.pid
